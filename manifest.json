@@ -1,0 +1,78 @@
+{
+  "title": "3 Years • Our Adventure",
+  "playerName": "Izzy",
+  "partnerName": "Ranch",
+  "bgm": "assets/music/Nostalgic Pokemon Tunes, chilled and heart warming playlist, that makes you feel way too old. [iGuivUp2DLs].mp3",
+
+  "years": [
+    {
+      "year": 2023,
+      "label": "2023 • Year 1",
+      "entries": [
+        { "src": "assets/images/2023/IMG_1705.jpg", "date": "2023-02-14", "caption": "First date!" },
+        { "src": "assets/images/2023/IMG_1713.jpeg", "date": "2023-03-01", "caption": "Cuddlessss with uu" },
+        { "src": "assets/images/2023/IMG_1715.jpeg", "date": "2023-03-15", "caption": "I was knocked out here" },
+        { "src": "assets/images/2023/IMG_2203.jpg", "date": "2023-06-01", "caption": "Beach time!" },
+        { "src": "assets/images/2023/IMG_4933.jpg", "date": "2023-08-15", "caption": "When you first came to see me" },
+        { "src": "assets/images/2023/IMG_7391.jpeg", "date": "2023-09-10", "caption": "Second visit" },
+        { "src": "assets/images/2023/IMG_7391 (1).jpeg", "date": "2023-10-01", "caption": "Same thing cuz i loved the pic hehe" },
+        { "src": "assets/images/2023/IMG_9929.jpg", "date": "2023-12-25", "caption": "Near christmas pic I think" },
+        { "src": "assets/images/2023/lp_image.jpeg", "date": "2023-12-31", "caption": "Crying T REX izzy" }
+      ]
+    },
+    {
+      "year": 2024,
+      "label": "2024 • Year 2",
+      "entries": [
+        { "src": "assets/images/2024/IMG_0958.jpg", "date": "2024-01-10", "caption": "campus visit!" },
+        { "src": "assets/images/2024/IMG_0360.jpeg", "date": "2024-02-01", "caption": "when u came to see me and my friends" },
+        { "src": "assets/images/2024/IMG_3920.jpeg", "date": "2024-03-15", "caption": "bro held a whole goddam snake" },
+        { "src": "assets/images/2024/IMG_3983.jpeg", "date": "2024-04-01", "caption": "PLUTOOO" },
+        { "src": "assets/images/2024/IMG_4802.jpeg", "date": "2024-04-20", "caption": "such a cutie pie image" },
+        { "src": "assets/images/2024/IMG_5747.jpg", "date": "2024-05-20", "caption": "we looked really cue here fr" },
+        { "src": "assets/images/2024/IMG_5758.jpg", "date": "2024-06-15", "caption": "alleyway pic fr" },
+        { "src": "assets/images/2024/IMG_5766.JPG", "date": "2024-07-04", "caption": "Ellicott City represent" },
+        { "src": "assets/images/2024/IMG_5921.jpeg", "date": "2024-07-20", "caption": "Olive garden date" },
+        { "src": "assets/images/2024/IMG_6058.jpg", "date": "2024-08-10", "caption": "slightly cold weather innit" },
+        { "src": "assets/images/2024/IMG_6354.jpeg", "date": "2024-08-25", "caption": "YOUR BIRTHDAY" },
+        { "src": "assets/images/2024/IMG_7400.jpeg", "date": "2024-09-15", "caption": "giant ferris wheel fr" },
+        { "src": "assets/images/2024/IMG_9126.jpeg", "date": "2024-10-10", "caption": "BEAUTYYYYYYYYYYYYY" },
+        { "src": "assets/images/2024/IMG_9474.jpeg", "date": "2024-11-01", "caption": "kisses and cuddles (and more ahem.)" },
+        { "src": "assets/images/2024/5620931437451345609.JPG", "date": "2024-11-15", "caption": "IRISSS" },
+        { "src": "assets/images/2024/lp_image.jpeg", "date": "2024-12-01", "caption": "You looked really cute here" },
+        { "src": "assets/images/2024/lp_image (1).jpeg", "date": "2024-12-15", "caption": "BABY PLUTOOO" },
+        { "src": "assets/images/2024/new image.jpeg", "date": "2024-12-31", "caption": "goofy goober" }
+      ]
+    },
+    {
+      "year": 2025,
+      "label": "2025 • Year 3",
+      "entries": [
+        { "src": "assets/images/2025/IMG_0359.jpeg", "date": "2025-01-01", "caption": "Someone made fun of me behind the camera fr" },
+        { "src": "assets/images/2025/IMG_0360.jpeg", "date": "2025-01-05", "caption": "CUTE" },
+        { "src": "assets/images/2025/IMG_0362.jpeg", "date": "2025-01-08", "caption": "even cuter picture" },
+        { "src": "assets/images/2025/IMG_1675.jpeg", "date": "2025-01-12", "caption": "bro just likes to snap random angles of us" },
+        { "src": "assets/images/2025/IMG_2330.jpeg", "date": "2025-01-15", "caption": "so pretty here fr" },
+        { "src": "assets/images/2025/IMG_3983.jpeg", "date": "2025-01-18", "caption": "PLUTO AGAIN" },
+        { "src": "assets/images/2025/IMG_5743.jpeg", "date": "2025-01-20", "caption": "so beautiful omGAWD" },
+        { "src": "assets/images/2025/IMG_6516.JPEG", "date": "2025-01-21", "caption": "jo's new house" },
+        { "src": "assets/images/2025/IMG_6534.JPEG", "date": "2025-01-22", "caption": "PRETTY WOMANNNNN" },
+        { "src": "assets/images/2025/lp_image.jpeg", "date": "2025-01-23", "caption": "pluto was scary here fr" },
+        { "src": "assets/images/2025/lp_image (1).jpeg", "date": "2025-01-24", "caption": "U AND PLUTO" }
+      ]
+    }
+  ],
+
+  "finalMessage": [
+    "You collected every year.",
+    "And you're still my favorite part of the story.",
+    "Happy 3 Years ❤️",
+    "Press E for the surprise."
+  ],
+  "surpriseMessage": [
+    "SURPRISE!",
+    "Date plan: (write it here)",
+    "Will you be my Player 2 for Year 4? 🎮❤️",
+    "Press R to replay."
+  ]
+}
